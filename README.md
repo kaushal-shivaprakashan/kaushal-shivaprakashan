@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_423_752/0/1583217310942?e=1692835200&v=beta&t=0v5QooRGhp14z0WRy2Ckj0ji8SP84XInIUpuyQr70VI)
 <h1 align="center">Hi 👋, I'm Kaushal Shivaprakash</h1>
 - 🌱 I’m currently learning **Data Science,Machine Learning**
+
 - 🎓 Recent Engineering graduate with a Bachelor of Engineering in Information Science from Visvesvaraya Technological University. 🔍 Passionate about IT and Data Science, equipped with technical expertise to excel in these fields.
 
 🚀 Throughout my academic journey, I honed strong problem-solving skills and developed excellent communication, leadership, and collaboration abilities. 🤝 Thriving in team environments, I am committed to contributing effectively and driving success in IT and Data Science projects.
