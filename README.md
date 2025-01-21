@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaushal Shivaprakash</h1>
 
-Thanks for connecting! I'm excited to contribute my talents and dedication to a dynamic organization in the IT and Data Science domains. 🌟 If there's any opportunity or collaboration you'd like to explore, feel free to reach out. Let's make a positive impact together! 🚀
+Thanks for connecting! 🌟 If there's any opportunity or collaboration you'd like to explore, feel free to reach out. Let's make a positive impact together! 🚀
 - 📫 How to reach me **kaushal.shivaprakashan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
