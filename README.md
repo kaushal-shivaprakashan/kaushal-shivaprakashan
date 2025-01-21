@@ -1,12 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kaushal Shivaprakash</h1>
-- 🌱 I’m currently learning **Data Science,Machine Learning**
-
-- 🎓 Recent Engineering graduate with a Bachelor of Engineering in Information Science from Visvesvaraya Technological University. 🔍 Passionate about IT and Data Science, equipped with technical expertise to excel in these fields.
-
-🚀 Throughout my academic journey, I honed strong problem-solving skills and developed excellent communication, leadership, and collaboration abilities. 🤝 Thriving in team environments, I am committed to contributing effectively and driving success in IT and Data Science projects.
-
-💼 Seeking opportunities to apply my skills and take on challenges in the Data Science field, I am eager to make a positive impact on projects and initiatives. 🌟 With a focus on innovation and a sense of accountability, I am ready to take ownership and ensure successful outcomes.
 
 Thanks for connecting! I'm excited to contribute my talents and dedication to a dynamic organization in the IT and Data Science domains. 🌟 If there's any opportunity or collaboration you'd like to explore, feel free to reach out. Let's make a positive impact together! 🚀
 - 📫 How to reach me **kaushal.shivaprakashan@gmail.com**
