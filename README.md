@@ -223,16 +223,10 @@
 
 <div align="center">
   
-### **🎯 Target Companies & Roles**
 
-**FAANG**: Google (Staff Data Scientist) | Microsoft (Senior ML Engineer) | Amazon (Principal Applied Scientist) | Meta (Data Science Manager) | Apple (Senior ML Engineer)
-
-**Unicorns**: OpenAI | Databricks | Snowflake | Palantir | Scale AI | Anthropic
-
-**Top Tech**: Nvidia | Tesla | Stripe | Airbnb | Uber | ByteDance | Spotify
 
 ### **💼 Ideal Roles**
-`Staff Data Scientist` • `Senior ML Engineer` • `Principal Applied Scientist` • `ML Infrastructure Engineer` • `Data Science Manager`
+` Data Scientist` • `ML Engineer` • `Data Engineer` • `Data Analyst` • `Software Engineer` • `Product Manager `
 
 ### **📅 Availability**
 **Immediate for Full-time** | **Summer 2025 Internships** | **Contract/Consulting**
