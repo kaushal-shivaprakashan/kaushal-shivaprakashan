@@ -272,14 +272,7 @@
 
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-</div>
 
-<div align="center">
-Show Image
-Show Image
-Show Image
 💡 "Scaling AI solutions that drive billion-dollar business decisions"
 ⭐ If you're hiring for ML/Data Science roles, let's connect! ⭐
 </div>
