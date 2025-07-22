@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kaushal Shivaprakash
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Senior+Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -286,9 +286,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-</div>
 
 ---
 
