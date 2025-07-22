@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kaushal Shivaprakash
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Senior+Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 **Why  Companies Should Hire Me**
+## 🎯 **Why Top Tech Companies Should Hire Me**
 
 <table>
 <tr>
@@ -89,16 +89,21 @@
 
 ---
 
-📊 GitHub Performance Analytics
+## 📊 **GitHub Performance Analytics**
+
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-shivaprakashan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
 </div>
+
 <div align="center">
-📈 Performance Highlights - Data Science Excellence
+  
+### **📈 Performance Highlights - Data Science Excellence**
+  
 <table>
 <tr>
 <td align="center"><strong>🚀 Total Commits</strong><br/><code>4,726</code></td>
@@ -120,6 +125,9 @@
 </tr>
 </table>
 
+### **🎯 Data Science Grade: A+ (Top 5% Developer)**
+
+</div>
 
 ---
 
@@ -244,10 +252,16 @@
 
 <div align="center">
   
+### **🎯 Target Companies & Roles**
 
+**FAANG**: Google (Staff Data Scientist) | Microsoft (Senior ML Engineer) | Amazon (Principal Applied Scientist) | Meta (Data Science Manager) | Apple (Senior ML Engineer)
+
+**Unicorns**: OpenAI | Databricks | Snowflake | Palantir | Scale AI | Anthropic
+
+**Top Tech**: Nvidia | Tesla | Stripe | Airbnb | Uber | ByteDance | Spotify
 
 ### **💼 Ideal Roles**
-` Data Scientist` • `ML Engineer` • `Data Engineer` • `Data Analyst` • `Software Engineer` • `Product Manager `
+`Data Engineering/Analyst/Scientist` • `Software Engineer` • `ML Engineer` • `Product Manager`
 
 ### **📅 Availability**
 **Immediate for Full-time** | **Summer 2025 Internships** | **Contract/Consulting**
@@ -270,9 +284,22 @@
 
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+</div>
 
 ---
 
-💡 "Scaling AI solutions that drive billion-dollar business decisions"
-⭐ If you're hiring for ML/Data Science roles, let's connect! ⭐
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=kaushal-shivaprakashan&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/kaushal-shivaprakashan?color=00D4FF&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/kaushal-shivaprakashan?color=FFD700&style=for-the-badge&label=Total+Stars)
+
+### **💡 "Scaling AI solutions that drive billion-dollar business decisions"**
+
+**⭐ If you're hiring for ML/Data Science roles, let's connect! ⭐**
+
 </div>
