@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kaushal Shivaprakash
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Senior+Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Data+Scientist+%26+ML+Engineer;Scaling+AI+at+Enterprise+Level;10M%2B+Records+%7C+%24250K%2B+Impact;AWS+%7C+GCP+%7C+MLOps+Expert;Open+to+FAANG+%2B+Unicorn+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
