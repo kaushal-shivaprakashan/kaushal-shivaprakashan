@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 **Why Top Tech Companies Should Hire Me**
+## 🎯 **Why  Companies Should Hire Me**
 
 <table>
 <tr>
