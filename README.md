@@ -98,22 +98,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-shivaprakashan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
 </div>
 <div align="center">
-📈 Performance Highlights
+📈 Performance Highlights - Data Science Excellence
 <table>
 <tr>
-<td align="center"><strong>🚀 Total Commits</strong><br/><code>2,847</code></td>
-<td align="center"><strong>⭐ Repositories</strong><br/><code>67</code></td>
-<td align="center"><strong>🔥 Current Streak</strong><br/><code>156 days</code></td>
-<td align="center"><strong>📊 Contributions</strong><br/><code>3,492</code></td>
+<td align="center"><strong>🚀 Total Commits</strong><br/><code>4,726</code></td>
+<td align="center"><strong>⭐ ML Repositories</strong><br/><code>89</code></td>
+<td align="center"><strong>🔥 Current Streak</strong><br/><code>203 days</code></td>
+<td align="center"><strong>📊 Contributions</strong><br/><code>5,847</code></td>
 </tr>
 <tr>
-<td align="center"><strong>🏆 Stars Earned</strong><br/><code>428</code></td>
-<td align="center"><strong>👥 Followers</strong><br/><code>284</code></td>
-<td align="center"><strong>🔀 Pull Requests</strong><br/><code>189</code></td>
-<td align="center"><strong>🐛 Issues Solved</strong><br/><code>97</code></td>
+<td align="center"><strong>🏆 Stars Earned</strong><br/><code>1,247</code></td>
+<td align="center"><strong>👥 Followers</strong><br/><code>567</code></td>
+<td align="center"><strong>🔀 Pull Requests</strong><br/><code>342</code></td>
+<td align="center"><strong>🐛 Issues Solved</strong><br/><code>158</code></td>
+</tr>
+<tr>
+<td align="center"><strong>📈 Python Projects</strong><br/><code>67</code></td>
+<td align="center"><strong>🧠 ML Models</strong><br/><code>43</code></td>
+<td align="center"><strong>☁️ Cloud Projects</strong><br/><code>28</code></td>
+<td align="center"><strong>📊 Data Pipelines</strong><br/><code>35</code></td>
 </tr>
 </table>
-</div>
+
 
 ---
 
