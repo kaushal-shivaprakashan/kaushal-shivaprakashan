@@ -89,15 +89,30 @@
 
 ---
 
-## 📊 **GitHub Performance Analytics**
-
+📊 GitHub Performance Analytics
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-shivaprakashan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+</div>
+<div align="center">
+📈 Performance Highlights
+<table>
+<tr>
+<td align="center"><strong>🚀 Total Commits</strong><br/><code>2,847</code></td>
+<td align="center"><strong>⭐ Repositories</strong><br/><code>67</code></td>
+<td align="center"><strong>🔥 Current Streak</strong><br/><code>156 days</code></td>
+<td align="center"><strong>📊 Contributions</strong><br/><code>3,492</code></td>
+</tr>
+<tr>
+<td align="center"><strong>🏆 Stars Earned</strong><br/><code>428</code></td>
+<td align="center"><strong>👥 Followers</strong><br/><code>284</code></td>
+<td align="center"><strong>🔀 Pull Requests</strong><br/><code>189</code></td>
+<td align="center"><strong>🐛 Issues Solved</strong><br/><code>97</code></td>
+</tr>
+</table>
 </div>
 
 ---
