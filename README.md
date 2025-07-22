@@ -270,11 +270,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-</div>
 
 ---
 <div align="center">
