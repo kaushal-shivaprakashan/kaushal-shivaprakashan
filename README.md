@@ -118,15 +118,24 @@ My primary strength is **Data Engineering**, supported by experience in:
 
 ---
 
-## 📈 **GitHub Analytics**
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-shivaprakashan&theme=github-dark-blue&hide_border=true" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180em" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&theme=github_dark&hide_border=true" height="180em" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=kaushal-shivaprakashan&theme=github-dark-blue&hide_border=true" height="180em" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&theme=github-dark&hide_border=true" height="300em" />
+
 </div>
+
 
 ---
 
