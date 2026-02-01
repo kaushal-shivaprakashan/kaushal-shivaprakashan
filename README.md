@@ -102,15 +102,41 @@ Kaushal Shivaprakashan
   Dimensional modeling for fast BI dashboards.
 
 ---
-
 ## 📈 GitHub Analytics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan
+  &show_icons=true
+  &hide_border=true
+  &bg_color=0D1117
+  &title_color=00E5FF
+  &icon_color=58A6FF
+  &text_color=E6EDF3"
+  height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan
+  &layout=compact
+  &hide_border=true
+  &bg_color=0D1117
+  &title_color=00E5FF
+  &text_color=E6EDF3"
+  height="165"
+/>
 
-<img src="https://streak-stats.demolab.com?user=kaushal-shivaprakashan&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff"/>
+<img
+  src="https://streak-stats.demolab.com?user=kaushal-shivaprakashan
+  &background=0D1117
+  &hide_border=true
+  &ring=00E5FF
+  &fire=00E5FF
+  &currStreakLabel=58A6FF
+  &sideLabels=E6EDF3
+  &currStreakNum=E6EDF3
+  &sideNums=E6EDF3"
+/>
 
 </div>
 
