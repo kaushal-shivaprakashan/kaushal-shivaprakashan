@@ -1,158 +1,137 @@
-# 👋 Hey there! I'm **Kaushal Shivaprakashan**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=70&lines=Data+Engineer+%7C+Big+Data+%7C+Cloud+Pipelines;Building+Scalable+ETL+%26+Data+Platforms;BI+Engineering+%7C+Analytics+%7C+Product+Data+Systems;Spark+%7C+Kafka+%7C+Airflow+%7C+BigQuery;Turning+Data+into+Reliable+Business+Systems" />
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaushal-shivaprakash)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github)](https://github.com/kaushal-shivaprakashan)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:kaushal.shivaprakashan@gmail.com)
-
-</div>
-
----
-
-## 🚀 **About Me — Data Engineer First**
-I specialize in building **high-scale, cloud-native data systems** that power analytics, BI, ML, and product decision-making.  
-
-My primary strength is **Data Engineering**, supported by experience in:
-- **Business Intelligence Engineering** (dashboards, data modeling, SQL analytics)
-- **Data Analytics** (KPIs, metrics, reporting)
-- **Product Engineering** (data systems supporting product features)
-- **Data Science** (feature engineering, ML-ready datasets)
-
-📌 *Think of me as a Data Engineer who also understands Analytics, BI, and ML at a production level.*
-
----
-
-## 🛠️ **Tech Stack (Data Engineering Core)**
+<!-- =======================
+   PROFILE README (Animated)
+   Kaushal Shivaprakashan
+======================= -->
 
 <div align="center">
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Advanced-003B57?style=for-the-badge&logo=postgresql)
-![Scala](https://img.shields.io/badge/Scala-Big_Data-DC322F?style=for-the-badge&logo=scala)
-![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk)
+  <!-- Animated typing header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kaushal+Shivaprakashan+%F0%9F%91%8B;Data+Engineer+%7C+Cloud+%26+Distributed+Data+Systems;Spark+%7C+Kafka+%7C+Airflow+%7C+dbt;Building+Production-Grade+Batch+%2B+Streaming+Pipelines" />
 
-### **Data Engineering | Big Data**
-![Spark](https://img.shields.io/badge/Apache_Spark-Cluster_Computing-E25A1C?style=for-the-badge&logo=apache-spark)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-Streaming-231F20?style=for-the-badge&logo=apache-kafka)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=for-the-badge&logo=apache-airflow)
-![Hadoop](https://img.shields.io/badge/Hadoop-Ecosystem-FFCC00?style=for-the-badge&logo=apache)
+  <!-- Animated wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-### **Cloud (Analytics + Engineering)**
-![AWS](https://img.shields.io/badge/AWS-S3%2FLambda%2FGlue-FF9900?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-BigQuery%2FDataflow-4285F4?style=for-the-badge&logo=google-cloud)
-![Azure](https://img.shields.io/badge/Azure-Data_Services-0078D4?style=for-the-badge&logo=microsoft-azure)
+  <!-- Badges -->
+  <p>
+    <a href="https://linkedin.com/in/kaushal-shivaprakash" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-kaushal--shivaprakash-0077B5?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:kaushal.shivaprakashan@gmail.com">
+      <img src="https://img.shields.io/badge/Email-kaushal.shivaprakashan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/kaushal-shivaprakashan">
+      <img src="https://img.shields.io/badge/GitHub-kaushal--shivaprakashan-111?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://www.kaggle.com/kaushal07" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-kaushal07-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
+  </p>
 
-### **Warehousing & Databases**
-![BigQuery](https://img.shields.io/badge/BigQuery-TB_Scale-4285F4?style=for-the-badge&logo=google-cloud)
-![Snowflake](https://img.shields.io/badge/Snowflake-Data_Warehouse-29B5E8?style=for-the-badge&logo=snowflake)
-![Redshift](https://img.shields.io/badge/AWS-Redshift-8C0000?style=for-the-badge&logo=amazon-aws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Analytics-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb)
-
-### **BI & Analytics**
-![Tableau](https://img.shields.io/badge/Tableau-Business_Intelligence-E97627?style=for-the-badge&logo=tableau)
-![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge&logo=power-bi)
-![Looker](https://img.shields.io/badge/Looker-Data_Modeling-4285F4?style=for-the-badge&logo=looker)
-
-### **DevOps / Automation**
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
+  <!-- Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=kaushal-shivaprakashan&style=for-the-badge&color=00D4FF&label=Profile+Views" />
 
 </div>
 
 ---
 
-## 💼 **Experience — DE at the Center**
+## 🚀 About Me
+I’m a **Data Engineer** focused on building **scalable, reliable, production-grade data platforms** that power analytics, BI, and ML.  
+I’ve built and operated **batch + streaming systems** at scale (millions of events/hour + TB-scale datasets), with strong emphasis on:
 
-### **🔷 Graduate Data Engineering Researcher — University at Buffalo**  
-*2024–2025*  
-- Built **Spark + Python pipelines** for **2.5TB+ datasets**  
-- Designed **cloud-ready ETL** using Docker & Airflow  
-- Enabled downstream ML, BI & analytics teams with clean, reliable datasets  
+- **Pipeline reliability** (replay-safe streaming, checkpointing, backfills)
+- **Analytics-ready modeling** (star schema, SCD Type 2, curated layers)
+- **Performance & cost** optimization (Spark + warehouse tuning)
+- **Governance & data quality** (freshness, reconciliation, completeness)
 
----
-
-### **🔶 Programmer Analyst – Data Engineering — Cognizant**  
-*2023–2024*  
-- Designed Kafka + Spark pipelines processing **5M+ events/hour**  
-- Modernized batch ETL into **Airflow DAGs (99.9% uptime)**  
-- Optimized data models → analytics became **75% faster**  
-- Built cross-team data systems for **product, BI, and data science**  
+📍 **Seattle / Bellevue, WA**
 
 ---
 
-## 🏗️ **Projects (DE → BI → DA → DS)**
-### **1. Financial Data Platform (Primary: Data Engineering)**  
-**Spark | Kafka | Hadoop | AWS | SQL**  
-- Batch + streaming pipelines for **15GB/day + 2.5TB historical**  
-- Partitioning/indexing ↓ latency by **75%**  
-- ML/BI layers powered by robust ETL  
+## 🧠 What I Do Best
+- Build **end-to-end pipelines** (ingest → transform → serve)
+- Develop **Kafka + Spark Structured Streaming** systems
+- Orchestrate workflows with **Airflow**
+- Model marts using **dbt**, **star schema**, **SCD Type 2**
+- Design **Bronze/Silver/Gold** (Medallion) architectures
+- Ship data products that teams can trust
 
 ---
 
-### **2. Real-Time ETL Platform (Primary: Streaming Engineering)**  
-**Kafka | Spark Streaming | Airflow | Docker**  
-- Built pipelines ingesting **5M+ events/hour**  
-- Monitoring + retries → **99.9% reliability**  
-
----
-
-### **3. BigQuery Analytics Layer (BI + Data Modeling)**  
-**BigQuery | SQL | Looker | Dataform**  
-- Designed star schema for Finance & Ops  
-- BI latency improved **3×**  
-
----
-
-### **4. Analytics/ML Feature Store (Hybrid: DE + DS)**  
-**Python | Spark | AWS | SQL**  
-- Created production-ready feature transformations  
-- Improved ML training reliability & data quality  
-
----
-
-
-
----
-
-## 🎓 **Education**
-- **M.S., Data Science — University at Buffalo (SUNY)**  
-- **B.E., Information Science — VTU**
-
----
-
-## 🏅 **Certifications**
-![GCP](https://img.shields.io/badge/GCP-Data_Engineering_Certified-4285F4?style=for-the-badge&logo=google-cloud)
-![Azure](https://img.shields.io/badge/Azure-MLOps-0078D4?style=for-the-badge&logo=microsoft-azure)
-![IBM](https://img.shields.io/badge/IBM-Applied_Data_Science-054ADA?style=for-the-badge&logo=ibm)
-![KPMG](https://img.shields.io/badge/KPMG-Analytics_Consulting-00338D?style=for-the-badge&logo=kpmg)
-
----
-
-## 📞 **Let's Connect**
+## 🛠️ Tech Stack
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaushal-shivaprakash)
-[![Email](https://img.shields.io/badge/Email-kaushal.shivaprakashan@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kaushal.shivaprakashan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/kaushal-shivaprakashan)
+<img src="https://skillicons.dev/icons?i=python,scala,java,postgres,mysql,mongodb,aws,gcp,azure,docker,kubernetes,terraform,git,linux&perline=7" />
 
-📍 **Bellevue, WA**
+</div>
+
+**Core:** Python · SQL · Spark · Kafka · Airflow · dbt  
+**Warehouses:** Redshift · Snowflake · BigQuery  
+**Cloud:** AWS · GCP · Azure  
+**DevOps:** Docker · Kubernetes · Terraform · CI/CD
+
+---
+
+## 💼 Experience (Highlights)
+
+### 🟦 Data Engineer — Cognizant (Feb 2023 – Jul 2024)
+- Built **Kafka + Spark Structured Streaming** pipelines at **5M+ events/hour**
+- Implemented **Medallion architecture** + **dbt models** for analytics consumption
+- Modeled **fact/dimension tables** with **star schema + SCD Type 2**
+- Automated **20+ data quality checks** and operational backfills via **Airflow**
+- Tuned Spark + warehouse queries → **~75% faster analytics**
+
+### 🟩 Graduate Data Engineering Researcher — University at Buffalo (2024 – 2025)
+- Built Spark pipelines for **2.5TB+ datasets**
+- Designed cloud-ready ETL workflows using **Docker + Airflow**
+- Delivered clean datasets for downstream analytics/ML
+
+---
+
+## 🏗️ Featured Projects
+- **Financial Data Platform** — Spark · Kafka · AWS · SQL  
+  Batch + streaming pipelines, curated layers, performance tuning, analytics-ready models.
+
+- **Real-Time Streaming ETL** — Kafka · Spark Streaming · Airflow  
+  Monitoring + retries + checkpointing → reliability-focused streaming.
+
+- **BigQuery Analytics Layer** — BigQuery · SQL · Looker  
+  Dimensional modeling + faster BI performance.
+
+---
+
+## 📈 GitHub Analytics (Animated)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaushal-shivaprakashan&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-shivaprakashan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=kaushal-shivaprakashan&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
+## 🧩 Contribution Snake (Animation)
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kaushal-shivaprakashan&color=00D4FF&style=for-the-badge&label=Profile+Views)
-
-### 💡 “I build scalable data pipelines that power business intelligence, analytics, ML, and product experiences.”
-
+  <img src="https://raw.githubusercontent.com/kaushal-shivaprakashan/kaushal-shivaprakashan/output/snake.svg" alt="snake animation" />
 </div>
+
+---
+
+## 🌐 Activity Graph (Animated Feel)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-shivaprakashan&bg_color=0D1117&color=ffffff&line=00D4FF&point=00D4FF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let’s Connect
+If you’re hiring for **Data Engineering / Analytics Engineering / Platform** roles, I’m open to conversations.
+
+📧 kaushal.shivaprakashan@gmail.com  
+🔗 https://linkedin.com/in/kaushal-shivaprakash  
+📌 https://www.kaggle.com/kaushal07
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer&text=&fontSize=0" width="100%"/>
