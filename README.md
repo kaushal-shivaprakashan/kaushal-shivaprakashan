@@ -31,7 +31,7 @@
 
 I'm a **Software Engineer** specialized in **ML and Data** — based in **Seattle, WA**. I design and ship production-grade systems across the full stack: from distributed data pipelines and warehouse architecture to machine learning models, LLM integrations, and agentic AI workflows. I care about writing clean, scalable code that actually holds up in production.
 
-📍 **Seattle / Bellevue, WA** | **Open to:** Senior ML Engineer · AI/ML Data Engineer · MLOps Engineer roles
+
 
 ---
 
