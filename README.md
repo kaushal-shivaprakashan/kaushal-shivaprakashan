@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Kaushal+Shivaprakashan+👋;ML+%26+Data+Engineer;Building+AI+Agents%2C+LLM+Pipelines+%26+Data+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Kaushal!" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=header" width="100%"/>
+
+### Still connect with me!
 
 <p>
   <a href="https://linkedin.com/in/kaushal-shivaprakash">
@@ -26,7 +28,7 @@
 
 I'm an **ML & Data Engineer** based in **Seattle, WA** with experience building production AI systems, LLM-backed pipelines, and large-scale data infrastructure. My work spans from **real-time event streaming** and **warehouse design** to **GenAI platforms**, **RAG pipelines**, and **agentic AI workflows**.
 
-
+📍 **Seattle / Bellevue, WA** | **Open to:** Senior ML Engineer · AI/ML Data Engineer · MLOps Engineer roles
 
 ---
 
