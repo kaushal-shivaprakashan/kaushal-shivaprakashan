@@ -27,7 +27,9 @@
 
 ## 🎯 About Me
 
-I'm an **AI/ML & Data Engineer** based in **Seattle, WA** with experience building production AI systems, LLM-backed pipelines, and large-scale data infrastructure. My work spans from **real-time event streaming** and **warehouse design** to **GenAI platforms**, **RAG pipelines**, and **agentic AI workflows**.
+> *Software Engineer · ML Systems · Data Infrastructure · GenAI & Agentic Workflows*
+
+I'm a **Software Engineer** specialized in **ML and Data** — based in **Seattle, WA**. I design and ship production-grade systems across the full stack: from distributed data pipelines and warehouse architecture to machine learning models, LLM integrations, and agentic AI workflows. I care about writing clean, scalable code that actually holds up in production.
 
 📍 **Seattle / Bellevue, WA** | **Open to:** Senior ML Engineer · AI/ML Data Engineer · MLOps Engineer roles
 
