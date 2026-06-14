@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=header" width="100%"/>
 
-### Still connect with me!
+### Connect with me!
 
 <p>
   <a href="https://linkedin.com/in/kaushal-shivaprakash">
@@ -16,9 +16,10 @@
   <a href="mailto:kaushal.shivaprakashan@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/kaushal07">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=kaushal-shivaprakashan&style=for-the-badge&color=00D4FF"/>
 
 </div>
 
